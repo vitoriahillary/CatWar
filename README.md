@@ -15,13 +15,14 @@ Dificuldade: Aparece cada vez mais ratos.
 🚀 Acesse o Jogo Online
 
 Jogue agora mesmo Cat War através do seguinte link:
-🔗 Cat War - Play Online
-https://www.construct.net/en/free-online-games/cat-war-74918/play
+🔗 [Cat War - Play Online](https://www.construct.net/en/free-online-games/cat-war-74918/play)
+
 
 📂 Arquivos no GitHub
 
 Os arquivos do projeto, incluindo o código-fonte (.cp3) e as sprites do jogo, estão disponíveis no repositório do GitHub:
-🔗 Repositório GitHub
+🔗 [Repositório GitHub](https://github.com/vitoriahillary/CatWar?tab=readme-ov-file)
+
 
 📸 Prints da Aplicação e Banco de Dados
 
