@@ -4,13 +4,13 @@ Cat War é um jogo de tiro top-down onde você controla um gato armado para elim
 
 🎮 Como Jogar
 
-Movimentação: Utilize as setas do teclado ou as teclas WASD para mover o gato.
+Movimentação: Utilize as setas do teclado para mover o gato.
 
-Ataque: Pressione o botão de tiro para disparar contra os ratos.
+Ataque: Pressione o mouse de tiro para disparar contra os ratos.
 
-Objetivo: Elimine o maior número possível de ratos e colete power-ups para melhorar sua performance.
+Objetivo: Elimine o maior número possível de ratos e aumente sua pontuação.
 
-Dificuldade Progressiva: A cada nível, os ratos ficam mais rápidos e aparecem em maior quantidade.
+Dificuldade: Aparece cada vez mais ratos.
 
 🚀 Acesse o Jogo Online
 
@@ -41,9 +41,7 @@ Aqui estão algumas capturas de tela do jogo e do banco de dados:
 
 🎮 Interface do Jogo
 
-
-
-📊 Estrutura do Banco de Dados
+![image](https://github.com/user-attachments/assets/3ebe701f-d8e7-4ebf-9b9d-36b48f1457bb)
 
 
 
@@ -51,12 +49,10 @@ Aqui estão algumas capturas de tela do jogo e do banco de dados:
 
 Construct 3 para desenvolvimento do jogo.
 
-Banco de Dados para armazenar pontuações e estatísticas.
+Banco de Dados Firebase para armazenar pontuações e estatísticas.
 
 GitHub para versionamento do projeto e compartilhamento dos assets.
 
-📌 Contribuições
 
-Se quiser contribuir com melhorias para o jogo, sinta-se à vontade para enviar um pull request ou relatar problemas na aba de issues no GitHub.
 
 Divirta-se jogando Cat War! 🎯🐭
